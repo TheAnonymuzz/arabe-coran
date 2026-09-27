@@ -2,7 +2,7 @@
 
 Application web installable (PWA) pour apprendre l'arabe **avec le seul vocabulaire du Coran**, et la grammaire (nahw) et la morphologie (sarf) utiles pour le comprendre.
 
-**Ouvrir l'app :** https://blaze940.github.io/arabe-coran/
+**Ouvrir l'app :** https://theanonymuzz.github.io/arabe-coran/
 
 ## Contenu
 - **Parcours** : 8 blocs, 47 leçons, 253 exemples coraniques vérifiés mot pour mot, plus de 400 exercices (QCM et « touchez le mot dans le verset »).
